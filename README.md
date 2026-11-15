@@ -8,6 +8,7 @@ Página de una sola pantalla que busca episodios de la API pública de Rick and 
 ## Sitios publicados
 
 - GitHub Pages: https://aldocaniza.github.io/tp-caniza-aldo/
+- Vercel: https://tp-caniza-aldo.vercel.app
 
 ## Captura
 
